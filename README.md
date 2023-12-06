@@ -4,6 +4,8 @@
 <!-- Website -->
 🌐 [shadycoder.online](https://shadycoder.online)
 
+<img src="https://cdn.discordapp.com/attachments/968932660296704030/1052983551169146898/standard_1.gif?ex=657b2b5a&is=6568b65a&hm=c75df11c4ef07a0801f7d6d89ecb2ad87c811791c51e280374bf8f4d3fd6de78&" alt="Web Development" height="150" />
+
 <!-- Animated GIFs -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development" height="150" />
