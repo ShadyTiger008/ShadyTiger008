@@ -1,4 +1,4 @@
-[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+[![Header](https://github.com/shadytiger008/shadytiger008/raw/master/profile.gif)](https://www.adamalston.com/)
 
 ##### Hey there!, I'm Soumyajeet Chatterjee:
 
