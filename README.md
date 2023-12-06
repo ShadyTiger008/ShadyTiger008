@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Web Development" height="150" />
   <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Web Development" height="150" />
+  <img src="https://media.giphy.com/media/SvFocn0wNMx0iv2rYz/giphy.gif" alt="Web Development" height="150" />
+  <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" alt="Web Development" height="150" />
 </p>
 
 <!-- Skills and Experience -->
