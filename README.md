@@ -79,16 +79,17 @@ Greetings! I am Soumyajeet Chatterjee, a dedicated B.Tech student at the esteeme
 
 <!-- GitHub Stats -->
 ## GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajeet-chatterjee&show_icons=true&count_private=true&hide=prs,issues,contribs)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShadyTiger008&show_icons=true&count_private=true&hide=prs,issues,contribs)
 
 <!-- GitHub Streak -->
 ## GitHub Streak
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soumyajeet-chatterjee)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=ShadyTiger008)
 
 <!-- GitHub Trophies -->
 ## GitHub Trophies
-![GitHub trophies](https://github-profile-trophy.vercel.app/?username=soumyajeet-chatterjee)
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=ShadyTiger008)
 
 <!-- GitHub Top Languages -->
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajeet-chatterjee&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShadyTiger008&layout=compact)
+
