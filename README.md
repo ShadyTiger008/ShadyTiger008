@@ -7,7 +7,7 @@
 <!-- Animated GIFs -->
 <p align="center">
   <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
-  <img src="https://your-animation-gif-url-2.gif" alt="React Native" height="150" />
+  <img src="[https://your-animation-gif-url-2.gif](https://media0.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif?cid=ecf05e47imnhxg90fzapwxtjzuysizdxhrmaxh9avjmeteo3&ep=v1_gifs_search&rid=giphy.gif&ct=g)" alt="React Native" height="150" />
 </p>
 
 <!-- Skills and Experience -->
