@@ -1,7 +1,14 @@
 <!-- Header -->
 # Hi there! 👋 I'm Soumyajeet Chatterjee
+
 <!-- Website -->
 🌐 [shadycoder.online](https://shadycoder.online)
+
+<!-- Animated GIFs -->
+<p align="center">
+  <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
+  <img src="https://your-animation-gif-url-2.gif" alt="React Native" height="150" />
+</p>
 
 <!-- Skills and Experience -->
 ## Skills and Experience
@@ -19,24 +26,14 @@ Greetings! I am Soumyajeet Chatterjee, a dedicated B.Tech student at the esteeme
   <div style="flex: 1; text-align: center;">
     <strong>Languages</strong><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+    <!-- Add more language badges here -->
   </div>
 
   <!-- Tools -->
   <div style="flex: 1; text-align: center;">
     <strong>Tools</strong><br/>
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+    <!-- Add more tool badges here -->
   </div>
 
 </div>
@@ -61,5 +58,27 @@ Greetings! I am Soumyajeet Chatterjee, a dedicated B.Tech student at the esteeme
 - **Field of Study:** Computer Science and Engineering (Specialization in AI & ML)
 - **Graduating Year:** 2024
 
+<!-- Reach me at -->
+## Reach me at
+- **Email:** chatterjeesoumyajeet@gmail.com
+- **LinkedIn:** [Soumyajeet Chatterjee](https://www.linkedin.com/in/soumyajeet-chatterjee-a4095111a)
+- **Stack Overflow:** [Soumyajeet Chatterjee](https://stackoverflow.com/users/your-user-id)
+
 <!-- Footer -->
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=soumyajeet.chatterjee.soumyajeet.chatterjee)
+
+<!-- GitHub Stats -->
+## GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=soumyajeet-chatterjee&show_icons=true&count_private=true&hide=prs,issues,contribs)
+
+<!-- GitHub Streak -->
+## GitHub Streak
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=soumyajeet-chatterjee)
+
+<!-- GitHub Trophies -->
+## GitHub Trophies
+![GitHub trophies](https://github-profile-trophy.vercel.app/?username=soumyajeet-chatterjee)
+
+<!-- GitHub Top Languages -->
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soumyajeet-chatterjee&layout=compact)
