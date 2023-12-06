@@ -7,7 +7,7 @@
 <!-- Animated GIFs -->
 <p align="center">
   <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
- <iframe src="https://giphy.com/embed/SS8CV2rQdlYNLtBCiF" width="480" height="472" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/devrock-code-edr-escueladevrock-SS8CV2rQdlYNLtBCiF">via GIPHY</a></p>
+  <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
 </p>
 
 <!-- Skills and Experience -->
