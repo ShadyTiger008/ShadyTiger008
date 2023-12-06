@@ -4,7 +4,9 @@
 <!-- Website -->
 🌐 [shadycoder.online](https://shadycoder.online)
 
-<img src="https://ibb.co/vHCXdTM" alt="Web Development" height="250" />
+<p>
+  
+</p>
 
 <!-- Animated GIFs -->
 <p align="center">
