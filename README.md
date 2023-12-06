@@ -7,7 +7,7 @@
 <!-- Animated GIFs -->
 <p align="center">
   <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
-  <img src="https://your-animation-gif-url-1.gif" alt="Web Development" height="150" />
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="Web Development" height="150" />
 </p>
 
 <!-- Skills and Experience -->
