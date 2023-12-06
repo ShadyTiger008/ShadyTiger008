@@ -3,15 +3,15 @@
  <h2 align="center">Profile</h2>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [Soumyajeet Chatterjee](http://shadycoder.online)
+> A Fullstack Webdeveloper
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
 
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
+I am a Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player proficient in various scripting languages and multimedia Web tools.
 
 I have excellent design & coding skills, as well as an ability to convert requirements into exciting online applications.
 </p>
@@ -46,4 +46,4 @@ I have excellent design & coding skills, as well as an ability to convert requir
 </p>
 
 
-⭐️ From [@anandmainali](https://github.com/anandmainali)
+⭐️ From [@shadytiger008](https://github.com/ShadyTiger008)
