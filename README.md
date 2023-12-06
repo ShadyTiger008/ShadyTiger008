@@ -1,10 +1,9 @@
 <!-- Header -->
 # Hi there! 👋 I'm Soumyajeet Chatterjee
-
-Greetings! I am Soumyajeet Chatterjee, a dedicated B.Tech student at the esteemed University of Engineering and Management. My passion lies in Web Development, and I have built a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess extensive experience in crafting dynamic web applications using technologies such as ReactJs, NextJs, and Tailwind CSS. On the backend, I am proficient in NodeJs, ExpressJs, and MongoDB, enabling me to create robust and efficient systems. My portfolio boasts an array of successful projects, ranging from personal endeavors to collaborative ventures, showcasing my ability to deliver innovative and engaging solutions. With an innate drive for learning and a diligent work ethic, I constantly seek opportunities to expand my skill set, making versatility one of my core strengths.
-
 <!-- Website -->
 🌐 [shadycoder.online](https://shadycoder.online)
+
+Greetings! I am Soumyajeet Chatterjee, a dedicated B.Tech student at the esteemed University of Engineering and Management. My passion lies in Web Development, and I have built a strong foundation in HTML, CSS, and JavaScript. Additionally, I possess extensive experience in crafting dynamic web applications using technologies such as ReactJs, NextJs, and Tailwind CSS. On the backend, I am proficient in NodeJs, ExpressJs, and MongoDB, enabling me to create robust and efficient systems. My portfolio boasts an array of successful projects, ranging from personal endeavors to collaborative ventures, showcasing my ability to deliver innovative and engaging solutions. With an innate drive for learning and a diligent work ethic, I constantly seek opportunities to expand my skill set, making versatility one of my core strengths.
 
 <!-- Languages and Tools -->
 ## Languages and Tools
