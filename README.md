@@ -2,7 +2,7 @@
 # Hi there! 👋 I'm Soumyajeet Chatterjee
 
 <!-- Website -->
-🌐 [shadycoder.online](https://shadycoder.online)
+🌐 [Soumyajeet Chatterjee](https://soumyajeetchatterjee.online)
 
 <p>
   
